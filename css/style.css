@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Jomolhari|Lato&display=swap');
+
+#principal-index{
+  font-family: 'Lato', sans-serif;
+}
+
+#principal-index h1{
+  font-size: 70px;
+  line-height: 1;
+  font-family: 'Jomolhari', sans-serif;
+}
+
+#main-header #logo{
+  width: 250px;
+}
+
+#principal-info{
+  height: 85vh;
+  background-image: url("../img/bg.jpg");
+  background-size: cover;
+  position: relative;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+#botao-principal{
+  background-color: #fff;
+  padding: 10px;
+  font-size: 20px;
+}
+
+#botao-principal a{
+  color: rgba(0, 0, 0);
+  font-weight: bold;
+  font-family: 'Lato', sans-serif;
+}
+
+#principal-top{
+  margin: 10px auto;
+  background-color: rgba(0,0,0,0.5);
+  padding: 80px;
+}
+#nav-principal{
+  background-color: black;
+
+}
+#icones-footer{
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+  border-bottom: 1px solid #fff;
+}
+
+#container-footer{
+  width: 100vw;
+  background-color: black;
+  color: #fff;
+}
+
+#container-footer h1{
+  color: #fff;
+  font-family: 'Lato', sans-serif;
+  font-size: 30px;
+  padding-top: 10px;
+}
+
+#atendimento-footer{
+  height: 80px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 30px;
+  color: #fff;
+  border-bottom: 1px solid #fff;
+}
+
+#copy-footer a{
+  text-decoration: none;
+  color: #fff;
+}
+
+.botao-card{
+  background-color: black;
+  border: 1px solid black;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.botao-card:hover {
+  background-color: #fff;
+  border: 1px solid black;
+  color: black;
+}
+
+.botao-submit{
+  background-color: black;
+  border: 1px solid black;
+}
+
+.botao-submit:hover{
+  background-color: #fff;
+  border: 1px solid black;
+  color: black;
+}
+
+.container img{
+  width: 100%;
+}
+
+#areas-atuacao .card{
+  margin-bottom: 25px;
+ font-family: 'Lato', sans-serif;
+}
+
+#areas-atuacao .card h5, #sobre h2, #contato h2{
+  font-size: 26px;
+  font-weight: bold;
+}
+
+#contato-principal{
+  height: 55vh;
+}
+
+#form-contato{
+  width: 50vw;
+}
