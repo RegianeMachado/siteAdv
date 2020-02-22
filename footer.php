@@ -4,19 +4,19 @@
     <div class="row">
       <div class="col" id='atendimento-footer'>
         <i class="fas fa-envelope"></i><p>anderson.adv.juri.com</p>
-        <i class="fas fa-phone"></i><p>Tel: 11999999</p>
+        <i class="fas fa-phone"></i><p>Tel:(11) 99287-5721</p>
       </div>
     </div>
     <div class="row mt-4">
       <div class="col" id='icones-footer'>
-        <i class="fab fa-instagram"></i><p>Instragram</p>
+         <i class="fab fa-linkedin"></i><a href="https://www.linkedin.com/in/anderson-da-silva-assis-48633a164/" target="_blank"><p>Linkedin</p></a>
         <i class="fab fa-facebook-f"></i><p>Facebook</p>
         <i class="fab fa-twitter"></i><p>Twitter</p>
       </div>
     </div>
     <div class="row mt-4" id='copy-footer'>
       <div class="col">
-        <p>@2019 Anderson Advogado - Todos os Direitos Reservados - Desenvolvido por<a href="#">Regi Web</a></p>
+        <p>@2019 Anderson Advogado - Todos os Direitos Reservados - Desenvolvido por<a href="#"> Regi Web</a></p>
       </div>
     </div>
   </div>

@@ -15,7 +15,6 @@
 }
 
 #principal-info{
-  height: 85vh;
   background-image: url("../img/bg.jpg");
   background-size: cover;
   position: relative;
@@ -36,9 +35,7 @@
 }
 
 #principal-top{
-  margin: 10px auto;
   background-color: rgba(0,0,0,0.5);
-  padding: 80px;
 }
 #nav-principal{
   background-color: black;
@@ -51,12 +48,21 @@
   border-bottom: 1px solid #fff;
 }
 
+#icones-footer a{
+    text-decoration: none;
+   display: flex;
+  justify-content: space-around;
+  padding: 0;
+}
 #container-footer{
   width: 100vw;
   background-color: black;
   color: #fff;
 }
-
+#container-footer a{
+   background-color: black;
+  color: #fff;
+}
 #container-footer h1{
   color: #fff;
   font-family: 'Lato', sans-serif;
@@ -108,7 +114,6 @@
 }
 
 #areas-atuacao .card{
-  margin-bottom: 25px;
  font-family: 'Lato', sans-serif;
 }
 
